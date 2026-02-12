@@ -32,11 +32,11 @@ CSE Student | AI & Full-Stack Developer | AR/VR Enthusiast | Building with Stron
 
 I’m a Computer Science undergraduate passionate about building systems that combine intelligence, performance, and clean user experience.
 
-With a strong foundation in Data Structures, Algorithms, and core CS fundamentals, I focus on writing structured, scalable, and efficient solutions. I enjoy working across the stack — from intuitive front-end interfaces to optimized backend logic and AI-driven systems.
+With a strong foundation in Data Structures, Algorithms, and core CS fundamentals, I focus on writing scalable and efficient solutions. I enjoy working across the stack - from intuitive front-end interfaces to optimized backend logic and AI-driven systems.
 
-My projects often center around real-world impact — whether it's algorithm visualization, AI-powered proctoring systems, or automation tools that reduce manual effort significantly.
+My projects emphasize real-world impact, whether through algorithm visualization, AI-powered proctoring systems, or automation tools that reduce manual effort.
 
-Beyond development, I actively lead and mentor peers, organize technical initiatives, and continuously challenge myself through hackathons and innovation competitions.
+Beyond development, I lead and mentor peers, organize technical initiatives, and continuously challenge myself through hackathons and innovation competitions.
 
 I believe in consistency over hype and depth over shortcuts.
 
