@@ -121,9 +121,11 @@ I believe in consistency over hype and depth over shortcuts.
 
 ## 🚀 Projects
 
-### 🔹 AlgoViz – Algorithm Visualizer Web App [GitHub]  
+### 🔹 AlgoViz – Algorithm Visualizer Web App 
 **Dec 2025**  
 *React, Vite, Tailwind CSS, Framer Motion, LottieFiles, Firebase, Node.js, OpenAI*
+
+[![GitHub](https://img.shields.io/badge/Check_Live-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/AlgoViz)
 
 - Developed an interactive algorithm visualization platform, increasing conceptual understanding and learning efficiency by 50%.  
 - Implemented quizzes, practice modules, and structured notes, increasing topic coverage and improving interview readiness by 40%.  
@@ -136,24 +138,32 @@ I believe in consistency over hype and depth over shortcuts.
 **May 2025**  
 *Java, Swing, AWT, MySQL*
 
+[![GitHub](https://img.shields.io/badge/Check_Live-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/Emp_Payroll.git)
+
 - Developed core payroll processing module using Java Swing and MySQL.  
 - Automated employee record keeping, salary calculation, payslip generation, attendance tracking and tax calculation with deductions.  
 - Improved data accuracy, minimizing errors by 90% compared to manual entry.
 
 ---
 
-### 🔹 Exam Cheating Detection System [GitHub]  
-**June 2025**  
-*Python, OpenCV, TensorFlow, YOLOv8 (Ultralytics)*
+### 🔹 KrishiMitra – Farmer Support ChatBot  
+*AI-Powered Multilingual Agricultural Assistance System*  
 
-- Developed AI system detecting cheating in online/offline exams by analyzing visual (face recognition, gaze tracking), audio (whispering, paper rustling), and behavioral (frequent movement, device usage) parameters, achieving 89% accuracy in realtime monitoring.  
-- Reduced manual supervision effort by 70%, improving exam integrity and efficiency.
+[![GitHub](https://img.shields.io/badge/Check_Live-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/KrishiMitra-Farmer-Support-ChatBot)
+
+- Designed and developed an AI-driven chatbot to assist farmers with agricultural queries, government schemes, and region-specific information.  
+- Implemented multilingual response support allowing users to choose their preferred language.  
+- Integrated region-wise filtering to provide accurate farming schemes and policy recommendations.  
+- Developed structured system architecture and data flow for scalable chatbot deployment.  
+- Enabled redirection to official government portals for verified scheme information.
 
 ---
 
 ### 🔹 Air Canvas – Computer Vision Project [GitHub]  
 **Nov 2024**  
 *OpenCV, NumPy, Mediapipe, Deque*
+
+[![GitHub](https://img.shields.io/badge/Check_Live-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/Air-Canvas-OpenCV-Project-.git)
 
 - Built a real-time hand gesture-based drawing tool using OpenCV and MediaPipe.  
 - Enabled air-based intuitive interaction, increasing drawing speed by 50% compared to mouse-based tools.
@@ -212,7 +222,7 @@ I believe in consistency over hype and depth over shortcuts.
 
 ---
 
-## 🌟 Leadership & Experience
+## 🏆 Leadership & Experience
 
 - Chief Executive & Mentor – Coding Club
 - Tech Member – Arjun Innovation Incubation Foundation  
