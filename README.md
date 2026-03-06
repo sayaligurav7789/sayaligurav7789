@@ -217,7 +217,7 @@ I believe in consistency over hype and depth over shortcuts.
 <img src="https://github.com/user-attachments/assets/76bd73ff-a145-45eb-a151-43a8e15c0193" width="120"/>
 <img src="https://github.com/user-attachments/assets/57741a66-e31b-4c4e-a44e-5af984673703" width="120"/>
 <img src="https://github.com/user-attachments/assets/d122262f-0ed2-4af4-8e12-e78baa2596ef" width="120"/>
-
+<img src="https://github.com/user-attachments/assets/119c1c4c-26fc-4490-9a20-c8e763b16d31" width="120"/>
 
 </td>
 </tr>
