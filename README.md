@@ -168,6 +168,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayaligurav7789&theme=github-dark&hide_border=true"/>
+    </td>
+    <td width="40%">
+      <img src="https://streak-stats.demolab.com?user=sayaligurav7789&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 ## 🔥 LeetCode Stats
 
 <table width="100%">
@@ -194,23 +211,6 @@
 - 🥇 1st Place – Taluka Level Speech Competition  
 - 📄 IEEE Research Paper Publication
 - 🚀 Selected for Startup Incubation (EdTech Solution)  
-
----
-
-## 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayaligurav7789&theme=github-dark&hide_border=true"/>
-    </td>
-    <td width="40%">
-      <img src="https://streak-stats.demolab.com?user=sayaligurav7789&theme=github-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ---
 
