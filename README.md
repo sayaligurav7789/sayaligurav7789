@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=&fontSize=0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=&fontSize=0" width="100%">
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sayali+Gurav+%F0%9F%8C%B1;AI%2FML+%26+Full-Stack+Developer;AR%2FVR+Enthusiast;DSA+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <br>
-
 <p align="center">
   <a href="https://github.com/sayaligurav7789">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
