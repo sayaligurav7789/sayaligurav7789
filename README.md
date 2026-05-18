@@ -82,6 +82,19 @@
 
 ## 🚀 Projects
 
+### 🔹 Neural Torrent – Decentralized AI Dataset Exchange & Reputation Ledger System  
+**Apr 2026 – Present**  
+*React, Node.js, Express.js, Solidity, Ethereum, WebTorrent, MetaMask, Uniswap API*
+
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/neutral-torrent.git)
+
+- Developed a decentralized AI dataset exchange platform integrating blockchain reputation systems, P2P networking, and AI dataset marketplace modules.  
+- Implemented Ethereum smart contracts, MetaMask authentication, and token-based dataset access for secure peer-to-peer sharing.  
+- Integrated cryptographic receipts and WebTorrent-based communication, improving data integrity and eliminating centralized tracking dependencies.  
+- Designed a scalable Web3 architecture supporting contribution-based access control and decentralized reputation management.
+
+---
+
 ### 🔹 AlgoViz – Algorithm Visualizer Web App 
 **Dec 2025**  
 *React, Vite, Tailwind CSS, Framer Motion, LottieFiles, Firebase, Node.js, OpenAI*
@@ -92,6 +105,19 @@
 - Implemented quizzes, practice modules, and structured notes, increasing topic coverage and improving interview readiness by 40%.  
 - Integrated an AI-powered assistant for algorithm explanations, reducing manual doubt-resolution time by 60%.  
 - Optimized UI animations and rendering performance, reducing perceived page load time by 40%.
+
+---
+
+### 🔹 Socratic – AI-Based Learning Evaluation System  
+**Mar 2026 – Apr 2026**  
+*Next.js, Node.js, MongoDB, Groq (LLaMA), Gemini API, Clerk, Tailwind CSS*
+
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/Socratic.git)
+
+- Built an AI-powered Socratic learning platform where users teach an AI student to improve concept retention and active learning.  
+- Developed a misconception detection engine with real-time feedback and blind-spot tracking, reducing conceptual errors by 60%.  
+- Implemented dual-layer radar analysis for theoretical and practical understanding evaluation with source-authenticated corrections.  
+- Designed a metadata-driven evaluation pipeline to convert learning conversations into measurable performance insights.
 
 ---
 
@@ -117,17 +143,6 @@
 - Integrated region-wise filtering to provide accurate farming schemes and policy recommendations.  
 - Developed structured system architecture and data flow for scalable chatbot deployment.  
 - Enabled redirection to official government portals for verified scheme information.
-
----
-
-### 🔹 Air Canvas – Computer Vision Project  
-**Nov 2024**  
-*OpenCV, NumPy, Mediapipe, Deque*
-
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayaligurav7789/Air-Canvas-OpenCV-Project-.git)
-
-- Built a real-time hand gesture-based drawing tool using OpenCV and MediaPipe.  
-- Enabled air-based intuitive interaction, increasing drawing speed by 50% compared to mouse-based tools.
 
 ---
 
