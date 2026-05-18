@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=&fontSize=0" width="100%">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Sayali%20Gurav%20🌱&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=33&font=Fira%20Code"
+    width="100%"
+  />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sayali+Gurav+%F0%9F%8C%B1;AI%2FML+%26+Full-Stack+Developer;AR%2FVR+Enthusiast;DSA+%7C+Problem+Solver" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Machine+Learning+%26+RAG+Developer;Blockchain+%26+Web3+Enthusiast;Java+%7C+DSA+%7C+Problem+Solver"
+    alt="Typing SVG"
+  />
+</p>
 
 <br>
 <p align="center">
