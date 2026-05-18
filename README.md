@@ -55,65 +55,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
-- C, C++, Java, JavaScript, Python
+- **Languages:** `C` `C++` `Java` `JavaScript` `Python` `SQL` `Solidity`
 
-### 🌐 Frontend
-- HTML, CSS
-- React.js
-- Component-driven UI development
-- Responsive layouts
+- **Frontend:** `React.js` `Next.js` `Tailwind CSS` `Vite` `Framer Motion`
 
-### 🖥 Backend
-- Node.js
-- Express.js
-- REST API development
+- **Backend:** `Node.js` `Express.js` `REST APIs`
 
-### 🗄 Databases
-- MySQL (Relational)
-- MongoDB (NoSQL)
+- **AI / ML:** `Machine Learning` `RAG` `OpenCV` `TensorFlow` `YOLO`
 
-### 🤖 AI / Computer Vision
-- OpenCV
-- TensorFlow
-- YOLOv8 (Ultralytics)
-- MediaPipe
-- NumPy
+- **Blockchain:** `Web3` `Ethereum` `Smart Contracts` `MetaMask`
 
-### 🧰 Libraries & Frameworks
-- React.js
-- Node.js
-- Express.js
-- Swing
-- AWT
+- **Databases:** `MySQL` `MongoDB` `Firebase` `VectorDB`
 
-### 🖼 AR / VR & 3D
-- AR Development
-- VR Development
-- 3D Modelling
+- **AR / VR:** `Unity` `C#` `AR` `VR`
 
-### ⚙ CS Fundamentals
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Computer Networks
-- DBMS
-
-### 🛠 Tools
-- Git
-- GitHub
-- Firebase
-- Linux
-- Windows
-
+- **Tools:** `Git` `GitHub` `Linux` `VS Code` `Postman`
 ---
 
-## 🛠 Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,react,nodejs,express,mysql,mongodb,firebase,opencv,tensorflow,git,github,linux,windows" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,solidity,html,css,react,nextjs,nodejs,express,tailwind,vite,mysql,mongodb,firebase,azure,tensorflow,opencv,unity,git,github,linux,vscode,postman" />
 </p>
 
 ---
