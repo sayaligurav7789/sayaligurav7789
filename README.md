@@ -175,11 +175,13 @@
       <img src="https://leetcard.jacoblin.cool/SayaliGurav?theme=dark&ext=contest" width="100%" />
     </td>
     <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/852b19ba-dbb6-41bb-8b37-9bbd5cd83ce1" width="100"/>
       <img src="https://github.com/user-attachments/assets/8657fee8-9af9-4364-a198-6f730f1135aa" width="100"/>
       <img src="https://github.com/user-attachments/assets/76bd73ff-a145-45eb-a151-43a8e15c0193" width="100"/>
       <img src="https://github.com/user-attachments/assets/57741a66-e31b-4c4e-a44e-5af984673703" width="100"/>
       <img src="https://github.com/user-attachments/assets/d122262f-0ed2-4af4-8e12-e78baa2596ef" width="100"/>
       <img src="https://github.com/user-attachments/assets/119c1c4c-26fc-4490-9a20-c8e763b16d31" width="100"/>
+      <img src="https://github.com/user-attachments/assets/5916b6cc-c55a-4566-9eb2-5ea53cdd96db" width="100"/>
     </td>
   </tr>
 </table>
